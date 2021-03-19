@@ -7,5 +7,3 @@ sudo curl -L -o start.sh https://raw.githubusercontent.com/YanniSperon/UbuntuScr
 sudo chmod a+x start.sh
 
 screen -S eth
-
-./start.sh
